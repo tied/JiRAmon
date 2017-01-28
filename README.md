@@ -1,0 +1,2 @@
+# JiRAmon
+JIRA Terminal Monitor
