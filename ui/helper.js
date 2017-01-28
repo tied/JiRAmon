@@ -4,7 +4,7 @@ var printf   = require('printf');
 var helper = {};
 
 helper.notify = function ()
-{git
+{
     var title   = "JiRAmon";
     var message = printf.apply(null, arguments);
 
